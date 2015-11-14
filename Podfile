@@ -1,0 +1,7 @@
+platform :ios, '7.0'
+pod 'SASlideMenu', '~> 2.0.3'
+pod 'MBProgressHUD', '~> 0.8'
+pod 'NSObject-NSCoding'
+pod 'Fabric'
+pod 'Crashlytics'
+xcodeproj 'LEDLamp/Janis.xcodeproj'
